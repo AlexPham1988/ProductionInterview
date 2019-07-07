@@ -1,0 +1,2 @@
+Dynamic Programming problem which can be considered in multithreading and big data processing. When the input data is too large, we should divide them into smalled part call "chunks". Data inside each chunks should be balance.
+This problem will be solved by DP.
